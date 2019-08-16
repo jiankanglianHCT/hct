@@ -2,50 +2,7 @@ Healthy Chain – Healthy DAPP
 Project Based on Block Chain Technology
 white paper
 Healthy Chainteam
-第2页
-Catalog
-1. Project overview................................................................................................................ 5
-1.1 Internet+Development Course of Sports Fitness.........................................................5
-1.2 Block chain is the general trend...............................................................................................6
-1.3 HealthyChain.Meaning..............................................................................................8
-1.4 HealthyChain.Development Planning...........................................................................8
-1.5 HealthyChain.Design Concept...............................................................................10
-1.6 HealthyChain.Application scenarios........................................................................... 13
-1.7 HealthyChain.Overview of Intelligent Bracelet..................................................... 15
-1.8 HealthyChain.Ecosphere....................................................................................................16
-1.9 HealthyChain.Development prospects...................................................................... 17
-2、Public chain(HCT)....................................................................................................................... 19
-2.1 Health uses...................................................................................................................................19
-2.2 Public chain(HCT). Reward mechanism ..............................................................................19
-2.3 Public chain(HCT).Transaction Closed Loop.................................................................... 20
-3、Product Solutions.......................................................................................................................23
-3.1 Product Solutions....................................................................................................................... 23
-3.2 Operational plan.........................................................................................................................24
-4、Technical scheme........................................................................................................................24
-4.1 Healthy Chain Mining Mechanism........................................................................................ 24
-4.2 Wearable Smart Hardware for Health Chain......................................................................25
-4.3 Health Chain Technology Architecture.................................................................................25
-第3页
-5、Funds Use Plan............................................................................................................................27
-5.1 Market risk........................................................................................................27
-5.2. Technical risk....................................................................................................27
-5.3. Compliance risk..................................................................................................................28
-5.4. Capital risk..........................................................................................................................28
-6、Team introduction......................................................................................................................29
-6.1 Core Team.....................................................................................................................................30
-6.2 Investors and Technical Advisers........................................................................................... 31
-6.3 Cooperative agencies and media.......................................................................................... 31
-7、Contact information.................................................................................................................. 32
-8、Risk statement.............................................................................................................................32
-8.1. Market risk.....................................................................................................................................32
-8.2. Technical risk................................................................................................................................ 32
-8.3. Compliance risk............................................................................................................................33
-8.4. Capital risk.....................................................................................................................................33
-9、Disclaimer.....................................................................................................................................34
-Health Chain: Healthy Chain Foundation
-Artificial intelligence. Big data and national fitness. Social
-E-commerce
-第5页
+
 1、Project overview
 HealthyChain is a decentralized intelligent sports health management service
 platform, which is based on block chain technology, AI intelligent wearable
@@ -60,7 +17,7 @@ hardware products. A large number of research on active participation in sports 
 economic method has the highest incentive effect and score, which means that
 people have the highest enthusiasm for sports finance. Healthy Chain actively
 provides innovative sports finance products, especially sports cash products, which stimulates more people's enthusiasm for participation and cultivates
-第6页
+
 sports habits for all. The original intention of HealthyChain Health Chain is to enable users to
 know their own sports data and health data at any time by using smart
 wearable hardware, and to exchange the sports data for the TOKEN award of
@@ -78,7 +35,7 @@ tamper-proof, data backup, relatively anonymous participants, and no need for
 other trusts. But its own trading performance and workload proof (POW)
 consensus mechanism has gradually revealed problems. Block chain
 technology is derived from Bitcoin. In the past two years, geeks have mainly
-第7页
+
 innovated around block chain's transaction performance, consensus algorithm, security anonymity, such as NEO, EOS, etc. to improve transaction performance;
 Proof of of Stake (POS), proof of delegated interest (DPOS), etc. Practical
 Byzantine Fault Tolerance（Practical Byzantine Fault Tolerance，PBFT for short）
@@ -94,7 +51,7 @@ block chain economy. 1.3 HealthyChain.Meaning
 sharing, participants'biometric information and sports health data valuable, and makes it possible for people to keep fit, interact and exchange values
 without borders. 2) Block chain technology solves the problem of trust and value transfer. Only by decentralization can we achieve the true sense of fairness, openness
 and transparency, and more people will participate in the formation of an
-第8页
+
 ecological sports fitness business system. 3) Every gymnasium participating in the community will be a distributed
 node of Healthy Chain. The venue can reward HCT to get more customers and
 accept customers'payment for HCT, realize the circulation of HCT, let users
@@ -111,7 +68,7 @@ possible
 Block chain technology is the most potential, imaginative and radical
 technological innovation in the world. The biggest characteristic of block chain
 is decentralization, which can realize the exchange of point-to-point value. It is
-第9页
+
 called value internet. The goal of HealthyChain is to create a single node where
 users and users can interact directly.As a big node, fitness venues are a strong
 cooperative ecological system with mutual cooperation, point-to-point
@@ -127,7 +84,7 @@ each user, including the data interaction with other platforms (including
 non-block chains), and construct an interconnected, multi-dimensional data
 interrelated DAPP sports health financial ecosystem. Multidimensional data, such as personal credit, assets, production and consumption data, can better
 integrate community consensus, individual behavior and value exchange.
-第10页
+
 Token carries the value of the ecological system. Holding HCT will obtain the
 basic services of various services in the financial ecological system of sports
 health, sports and fitness venues, sports and fitness surrounding malls, sharing
@@ -144,7 +101,7 @@ participate in sports and fitness to get better exercise and fitness experience
 and share the commercial value of sports. Finally, we can promote everyone to
 participate in sports, fitness, improve sub-health, and harvest strong physique. Keep a low carbon life. To this end, we design on the basis of the following
 principles and logic:
-第11页
+
 1) Reasonable: In this ecosystem, every natural person and other business
 forms can participate in it. Our design scheme must benefit all parties in
 order to make the healthy chain ecology develop steadily for a long time. Only in this way can the block chain and Internet technology really serve
@@ -157,7 +114,7 @@ decentralized block chain voting mechanism and intelligent contract. HealthyChai
 4) Opening and sharing: Opening and sharing is one of the design principles of
 the system. Faced with all kinds of individuals and institutions related to fitness
 and health, everyone and institutions can access the platform to share their
-第12页
+
 own skills, venues, equipment, data and other resources, so that the overall
 value of the system and the benefits of participants can be continuously
 improved. 5) Freedom: Each participant in the system can freely exchange skills, generate
@@ -173,7 +130,7 @@ in real time. Later, based on the basic chain of DAG technology, we will put sta
 modular virtual machines, smart sandboxes, value exchange and bifurcation
 mechanisms, we can create an evolving, easy-to-use, low-cost and moderately
 customized block chain network, such as trustNote, to issue new digital assets.
-第13页
+
 DAG (directed acyclic graph) is called "directed acyclic graph". There is no block
 concept. Instead of packaging all data into blocks and linking blocks with
 blocks, each user can submit a data unit, which can contain many elements, such as transactions, messages and so on. DAG (Directed Acyclic Graph) is
@@ -190,7 +147,7 @@ integrate community consensus, individual behavior and value exchange. After iss
 converted in equal proportion at this stage. 1.6 HealthyChain.Application scenarios
 Identity information establishment, credit inquiry. User identity
 authentication includes biological information, such as face recognition. With
-第14页
+
 the application of DAPP platform in cross-border e-commerce and the
 accumulation of block chain technology, credit-related data will be deposited in
 the chain. By authorization, users'syndrome letters can be searched, and a
@@ -209,7 +166,7 @@ good and cheap. At the same time, block chain technology is gradually used to
 track, upload and verify the whole process of commodity import, which will
 give each cross-border import a unique "block identity" for consumers to check
 and verify, to ensure the authenticity and reliability of commodity sources, and
-第15页
+
 fundamentally eliminate counterfeits. HealthyChain Ecology already has partners of game manufacturers. After
 DAPP joins the game manufacturers in the later stage, Token will support the
 acquisition, circulation and trading of small game props. Global users, digital assets easy to trade. Under the premise of abiding by
@@ -224,7 +181,7 @@ industry, and engineering machines have been introduced. The first version of
 the smart bracelet will have similar functions as the existing bracelet. At the
 same time, it will be adapted to DAPP for health coin mining. The first batch of
 supporters from the HealthyChain community will use the mass-produced DAP
-第16页
+
 and HealthyChain bracelets after mass production, and continue to optimize
 the HealthyChain bracelets according to user feedback. Sports bracelet is a set of running, cycling, fast walking and other sports
 mode as one of the hardware equipment. As long as the power supply of the
@@ -239,7 +196,7 @@ and consciousness, the square dancing aunt
 2) Fitness and health service institutions: gym, dance room, yoga, Taekwondo
 hall, personal studio, etc. 3) The group of members of fitness institutions: paid members of fitness
 institutions
-第17页
+
 4) Fitness Chain System Based on Block Chain: Health Chain System, Foundation and Community Service System
 5) Other business formats with business needs
 1.9 Development Prospects of Health Chain
@@ -249,11 +206,11 @@ tens of millions of precise fitness members. 2) There are hundreds of millions o
 annual membership of more than 100 million. The penetration rate of Chinese
 fitness population is only 0.79%, far less than 17.82% in the United States. China's fitness market still has tremendous room for growth. 5) Overseas developed countries have more and more people take fitness as an
 indispensable part of their lives, and the number of users in overseas markets is
-第18页
+
 huge.
 Prediction of the Number of Fitness Users in China (Unit: 100 million, Data
 Source: Data collation of the State General Administration of Sports)
-第19页
+
 2、Public chain(HCT)
 2.1 Health uses
 Public Chain (HCT) is the digital asset passport of health chain ecosystem. It
@@ -270,7 +227,7 @@ combines hardware, mobile phones and user's motion integrated data
 principle to design a unique intelligent adjustment mining algorithm. Based on
 artificial intelligence, a scientific scoring mechanism is formulated according to
 the daily amount of exercise, the acceleration of specific scenes, the daily time
-第20页
+
 of exercise, the comprehensive data of exercise and the time cycle of fitness. According to the rating results of all users, tokens are awarded to users within
 each time cycle. In theory, the higher the score, the more token rewards.
 In HealthyChain's ecosystem, all users who adhere to fitness have the
@@ -284,7 +241,7 @@ calculation mode for a certain period of time. Each time cycle, according to the
 user's surge situation, according to the system score. Mechanisms, give users a
 certain amount of token incentives, in order to encourage users to develop a
 habit of continuous exercise.
-第21页
+
 2) Sports Fitness Venues Consumption Support: Fitness users are both
 producers and demanders. The public chain (HCT) awarded can be used to
 consume and pay for gyms and personal trainers that have access to the Health
@@ -301,7 +258,7 @@ knowledge value payment circulation. 5) Merchant Drainage Award: Fitness venues 
 venues access Healthy Chain from the system, purchase health coins
 through a third-party trading platform, and give users more health money
 rewards in Healthy Chain system, so as to attract more users to join the
-第22页
+
 gym and increase the continuing income of the gym. 6) Shopping game props: HealthyChain relies on block chain technology, users can use the public chain (HCT) to exchange various services needed
 for sports and fitness, fitness venues can also attract more users to enter
 stores by issuing health money, forming a closed-loop transaction. 7) The total amount of the public chain (HCT) is constant, and the value of
@@ -312,7 +269,7 @@ transactions can be grafted onto the public chain (HCT). There are many
 application scenarios. 8) Transaction value transfer: Users get a certain amount of public chain
 (HCT) awards because of their fitness exercise, which can be used for
 consumer support and realize the value transfer of fitness exercise. Healthy Chain Trading Closed Loop
-第23页
+
 3、Product Solutions
 3.1 Product Solutions
 At present, the popular design scheme of Internet product is MVP
@@ -327,7 +284,7 @@ bracelets, we can also access our DAPP to achieve national fitness, Bracelet
 mining function, and obtain corresponding tokens. In the future, it can even be
 similar to smart watches, smart glasses and other bracelets. He has access to
 smart devices. Ultimately, our DAPP will be a mature ecological community in
-第24页
+
 which supporters of the fitness chain community can make fitness friends, mine
 for money, and use HCT tokens to buy a variety of products and services in the
 community's Healthy Chain confectionery store. 3.2 Operational plan
@@ -343,7 +300,7 @@ scoring mechanism according to the daily amount of exercise, the acceleration
 of specific scenes, the daily time of exercise, the comprehensive data of exercise
 and the time cycle of fitness. In each time cycle, users will issue tokens to users
 based on the health chain intelligent hardware, connected mobile phones,
-第25页
+
 uploaded user fitness data and track, combined with the fitness chain scoring
 mechanism. The total amount of tokens rewarded in each cycle decreases with
 time. 4.2 Wearable Smart Hardware for Health Chain
@@ -358,7 +315,7 @@ intelligent service, scoring system and block chain service. User's wearable
 equipment generates time series data at every moment. Big data service is
 responsible for carrying and storing massive movement data, and analyzing
 and processing the data. Scoring system is the core service of token reward.
-第26页
+
 According to user's movement data, all fitness users'movement data are
 evaluated in each time cycle. AI intelligent service mainly provides intelligent
 scoring, scientific fitness plan recommendation and other services. Block chain
@@ -372,7 +329,7 @@ only connects with smart hand environment protection, but also includes token
 wallet, sports community, online shopping mall and other functions.
 Intelligent devices are responsible for identifying users'fitness patterns, collecting sports data, uploading data to the system through the connection
 with DAPP, and receiving token awards.
-第27页
+
 5、Risk statement
 5The following risks exist in this project. Investors should pay attention to them. 5.1. Market risk
 Market risk means that the fitness chain is not accepted by the fitness
@@ -389,7 +346,7 @@ intelligent hardware. For technical risks, the HealthyChain team adopts
 the following hedging methods:
 Based on mature, open source and secure block chain technology, HealthyChain system is developed using a framework that has been
 approved and verified by commercial customers.
-第28页
+
 Actively recruit and absorb more high-end technical talents to join the
 R&D team, and strengthen the strength of the R&D team. 5.3. Compliance risk
 Compliance risk refers to the risk that HealthyChain violates local laws
@@ -406,7 +363,7 @@ The reserve fund is managed by multi-signature wallet plus cold storage. Under t
 multi-signature mode, when multiple directors fail to perform their duties at the same time, the
 reserve fund will face risks. The operation team has rich experience in wind control, which can effectively control project risks
 and protect the fundamental interests of users.
-第29页
+
 6、Disclaimer
 Nothing in this white paper constitutes a legal, financial, commercial or tax
 recommendation, and you should consult your own legal, financial, tax or other
@@ -426,7 +383,7 @@ otherwise). The following information may not be exhaustive or contain any eleme
 of the contractual relationship. There is no guarantee of the accuracy or
 completeness of such information, nor any statement, guarantee or
 commitment to the accuracy or completeness of such information. The white
-第30页
+
 paper includes information obtained from third-party sources, and the
 Foundation and/or HealthyChain team did not independently verify the
 accuracy or completion of such information. There is no guarantee of the
@@ -447,7 +404,7 @@ provided by any third party for HCT;
 (c) In any HCT purchase decision, you do not rely on any statement stated in
 this white paper;
 (d) You need to be accountable for your investment funds (as the case may be)
-第31页
+
 (e) If you are a citizen, resident (taxpayer or other), resident or green card
 holder of a country whose laws, decrees, provisions, treaties, or administrative
 acts do not recognize a security token or the investment product, you
@@ -463,7 +420,7 @@ and oral statements in press releases or anywhere (including statements about
 intentions, beliefs or current expectations regarding market conditions, business strategies and plans, financial situation, specific provisions and risk
 management practices).
 In view of the fact that these statements involve known and unknown risks, uncertainties and other factors that may lead to different actual future
-第32页
+
 outcomes from the above-mentioned forward-looking statements, we
 recommend that you do not rely too heavily on these forward-looking
 statements. White Paper information is updated only to the date of the White Paper, and HealthyChain is not liable for these forward-looking statements or for
